@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Debug/
+
+# custom
+.project
+.cproject
+.settings/
+Debug/
+Release/
+libroboticarm.a
+RobotArmTest
